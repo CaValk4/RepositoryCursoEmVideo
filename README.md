@@ -1,7 +1,7 @@
 # Repository Curso Em Video
- primeiro repositório versionado
+ **primeiro repositório versionado**
 
- repositório criado durante um curso de github do Gustavo Guanabara!
+ repositório criado durante um curso de github do *Gustavo Guanabara*!
 
 
 
